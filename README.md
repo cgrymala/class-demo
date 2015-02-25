@@ -1,9 +1,5 @@
 # Class Demo Readme
 
-## Some Conflict
-
-This is some conflicting info
-
 ## Intro
 
 This is some introductory information
@@ -17,4 +13,3 @@ This is a demo for the class
 ## Maintainers
 
 * cgrymala
-* smkeith
